@@ -9,4 +9,4 @@
 这个游戏的立意介于《奥日》和《与本尼福特共渡难关》之间，大致就是控制小球进行平台跳跃的工作。
 
 
-![图片1](https://user-images.githubusercontent.com/44309413/109392783-f934c480-7958-11eb-8b57-b8932b0ed140.gif)
+![小球展示](https://user-images.githubusercontent.com/44309413/109393540-52065c00-795d-11eb-934d-6379a10964ca.gif)
